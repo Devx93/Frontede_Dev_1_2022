@@ -64,3 +64,9 @@ button
 ul
 li
 ol
+
+
+webs documentacion
+
+https://platzi.com/blog/etiquetas-html-debes-conocer/
+https://htmlreference.io/
