@@ -22,3 +22,45 @@ temario html-css
 # html semantico
 codigo accesible, mejora posicionamiento SEO, codigo mas claro
 <div>   </div>
+
+
+# etiquetas principales html
+
+# layout
+
+header
+nav
+section
+article
+aside
+footer
+
+# enlaces
+a
+
+
+-------
+
+# textos 
+h1 ---- h6 (texto de principal a menos principal)
+p 
+span
+
+# imagenes y video
+img
+svg
+iframe
+video
+
+# formularios
+
+form
+input
+label
+button
+
+# listas
+
+ul
+li
+ol
