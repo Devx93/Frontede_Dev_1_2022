@@ -70,3 +70,4 @@ webs documentacion
 
 https://platzi.com/blog/etiquetas-html-debes-conocer/
 https://htmlreference.io/
+https://htmlcolorcodes.com/es/
