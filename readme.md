@@ -71,3 +71,12 @@ webs documentacion
 https://platzi.com/blog/etiquetas-html-debes-conocer/
 https://htmlreference.io/
 https://htmlcolorcodes.com/es/
+
+
+# tipos de selectores
+
+de tipo (div)
+de clase .elemento {}
+de id #id-del-elemento
+de atributo a[href = "]{}
+universal * {}
