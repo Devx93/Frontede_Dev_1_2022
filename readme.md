@@ -15,5 +15,10 @@ temario html-css
         <li> lista</li>
         <li> lista</li>
         <li> lista</li>
-        
+
 </section>
+
+
+# html semantico
+codigo accesible, mejora posicionamiento SEO, codigo mas claro
+<div>   </div>
