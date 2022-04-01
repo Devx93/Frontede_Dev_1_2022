@@ -80,3 +80,11 @@ de clase .elemento {}
 de id #id-del-elemento
 de atributo a[href = "]{}
 universal * {}
+
+
+# selectores combinadores
+
+descendientes div p
+hijo directo div > p
+elemento adyacente div + p
+general de hermanos div ~ p
