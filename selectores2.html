@@ -7,16 +7,43 @@
     <title>Selectores | 2</title>
     <style>
         div p {
-            color: azure;
+            color: rgb(64, 135, 135);
+        }
+        div > div {
+            background: cadetblue;
+        }
+        .es {
+            background: rgb(255, 68, 0);
+        }
+        div + section {
+            background: blue;
+        }
+        div ~ p {
+            color: gainsboro;
         }
     </style>
 </head>
 
 <body>
     <div>
-        <p></p>
+        <div>
+            <p>Ruunersworld</p>
+            <div class="es">Correr</div>
+        </div>
     </div>
-
-    
+    <p>Categorias de running</p>
+    <section>
+        Es lo mejor
+    </section>
+    <div>
+        Categoria Elite
+    </div>   
 </body>
 </html>
+
+
+<!--div>
+    <p>Runnersworld</p>
+    <p>web</p>
+    <p>2.0</p>
+</div-->

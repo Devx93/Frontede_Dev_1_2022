@@ -88,3 +88,17 @@ descendientes div p
 hijo directo div > p
 elemento adyacente div + p
 general de hermanos div ~ p
+
+# pseudoclases
+
+:active
+:focus
+:hover
+:nth-child(n)
+
+# pseudoelementos
+
+::after
+::before
+::firts-letter
+::placeholder
