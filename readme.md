@@ -114,3 +114,8 @@ https://specificity.keegan.st/
 # documentacion flexbox
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://learn-the-web.algonquindesign.ca/topics/flexbox/
+
+# margenes
+
+https://www.joshwcomeau.com/css/rules-of-margin-collapse/
