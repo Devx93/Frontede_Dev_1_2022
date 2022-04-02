@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectores | 3</title>
+</head>
+<style>
+    p {
+        color: greenyellow;
+    }
+    p::first-letter {
+        color: gold;
+    }
+    p::before {
+        content: "😎";
+    }
+    p::after {
+       content: "😵"; 
+    }
+    p:hover {
+        color: slategrey;
+    }
+
+    div p:nth-child(2) {
+        color: mediumseagreen;
+    }
+    ::placeholder {
+        color: darkkhaki;
+    }
+
+</style>
+<body>
+    <p>Hola mundo</p>
+    <div>
+        <p>Platzi</p>
+        <p>Running</p>
+        <p>Lo mejor</p>
+    </div>
+    <input type="text" placeholder="name">
+</body>
+</html>

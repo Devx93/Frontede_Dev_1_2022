@@ -102,3 +102,6 @@ general de hermanos div ~ p
 ::before
 ::firts-letter
 ::placeholder
+
+https://css-tricks.com/pseudo-class-selectors/
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
