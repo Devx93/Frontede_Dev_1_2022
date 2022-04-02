@@ -109,3 +109,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
 # especifidad del codigo en css
 
 https://specificity.keegan.st/
+
+
+# documentacion flexbox
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
