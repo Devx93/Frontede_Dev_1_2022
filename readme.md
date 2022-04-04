@@ -119,3 +119,7 @@ https://learn-the-web.algonquindesign.ca/topics/flexbox/
 # margenes
 
 https://www.joshwcomeau.com/css/rules-of-margin-collapse/
+
+
+# css 
+https://cssreference.io/
